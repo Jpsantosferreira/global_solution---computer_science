@@ -7,7 +7,9 @@ Ana Julia Yumi Inoue - RM: 569430
 
 João Pedro Santos Ferreira - RM: 569202
 
-Maria Fernanda Dias Ribeiro - RM: 569999              
+Maria Fernanda Dias Ribeiro - RM: 569999  
+
+Objetivos: Mission Control AI propõe o desenvolvimento de um sistema inteligente de monitoramento e alerta para uma missão espacial experimental. Nosso projeto possui uma aplicação prática de conceitos de lógica digital, expressões booleanas e circuitos lógicos.  
 
 Explicação do funcionamento do sistema de alerta - MISSION CONTROL AI 
 
