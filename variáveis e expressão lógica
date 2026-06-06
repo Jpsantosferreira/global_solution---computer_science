@@ -1,0 +1,11 @@
+Definição das variáveis de entrada:
+- A: falha na habitação da nave;
+- B: falhas de comunicação;
+- C: falhas no controle da nave;
+- D: risco operacional;
+- E: temperatura fora da normalidade;
+- F: problemas na energia;
+- G: estabilidade da nave. 
+
+
+Expressão lógica booleana --> X = (A·B + C·D) + (E·F + ¬G). 
