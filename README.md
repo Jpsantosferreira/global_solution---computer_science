@@ -13,9 +13,9 @@ Objetivos: Mission Control AI propõe o desenvolvimento de um sistema inteligent
 
 Explicação do funcionamento do sistema de alerta - MISSION CONTROL AI 
 
-Simulação realizada no TinkerCad.
-Diagrama / circuito lógico feito no Logisim.
-Tabela verdade feita no Google Planilhas.
+Simulação realizada no TinkerCad.       
+Diagrama / circuito lógico feito no Logisim.      
+Tabela verdade feita no Google Planilhas.     
 
 Como funciona?           
 - A lógica é simples, existem 7 variáveis, representadas por letras na ordem alfabética.       
